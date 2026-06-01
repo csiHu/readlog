@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="polar_night1">#2e3440</color>
+    <color name="polar_night2">#3b4252</color>
+    <color name="polar_night3">#434c5e</color>
+    <color name="polar_night4">#4c566a</color>
+    <color name="snow_storm1">#d8dee9</color>
+    <color name="snow_storm2">#e5e9f0</color>
+    <color name="snow_storm3">#eceff4</color>
+    <color name="frost1">#8fbcbb</color>
+    <color name="frost2">#88c0d0</color>
+    <color name="frost3">#81a1c1</color>
+    <color name="frost4">#5e81ac</color>
+    <color name="red">#bf616a</color>
+    <color name="orange">#d08770</color>
+    <color name="yellow">#ebcb8b</color>
+    <color name="green">#a3be8c</color>
+    <color name="purple">#b48ead</color>
+</resources>

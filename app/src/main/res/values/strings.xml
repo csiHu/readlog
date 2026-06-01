@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReadLog</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_planned">Planned</string>
+    <string name="status_reading">Reading</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_new_item">Add new item</string>
+    <string name="dialog_auto_move_title">All Caught Up?</string>
+    <string name="dialog_auto_move_message">\"%1$s\" has been fully read. Do you want to move it to the Completed list?</string>    <string name="dialog_action_move">MOVE</string>
+    <string name="dialog_action_stay">STAY</string>
+    <string name="all">All (?)</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="progress">Progress</string>
+    <string name="total">Total</string>
+    <string name="status">Status</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="plus_one">+1</string>
+</resources>

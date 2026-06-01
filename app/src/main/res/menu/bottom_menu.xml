@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_reading"
+        android:icon="@drawable/book_open"
+        android:title="@string/status_reading" />
+    <item
+        android:id="@+id/nav_planned"
+        android:icon="@drawable/book_marked"
+        android:title="@string/status_planned" />
+    <item
+        android:id="@+id/nav_completed"
+        android:icon="@drawable/library_big"
+        android:title="@string/status_completed" />
+</menu>
