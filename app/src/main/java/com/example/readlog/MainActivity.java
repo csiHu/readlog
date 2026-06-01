@@ -1,5 +1,6 @@
 package com.example.readlog;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -60,6 +61,11 @@ public class MainActivity extends AppCompatActivity {
             binding.titleTextView.setText(R.string.status_reading);
             currentTabStatus = "READING";
         }
+
+        binding.aboutButton.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, AboutActivity.class);
+            startActivity(intent);
+        });
 
         binding.bottomNavigationView.setOnItemSelectedListener(menuItem -> {
             int itemId = menuItem.getItemId();

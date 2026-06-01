@@ -18,4 +18,9 @@
     <string name="cancel">Cancel</string>
     <string name="delete_entry">Delete Entry</string>
     <string name="plus_one">+1</string>
+    <string name="about_application">About Application</string>
+    <string name="version_0_1_1">Version 0.1.1</string>
+    <string name="readlog">ReadLog</string>
+    <string name="description">An Android media tracking app developed as a university assignment. It provides a clean, universal way to log progress and manage different reading or media lists in one place.</string>
+    <string name="go_back">Go back</string>
 </resources>
